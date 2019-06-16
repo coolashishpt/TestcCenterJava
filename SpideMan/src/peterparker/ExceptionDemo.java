@@ -17,9 +17,9 @@ public class ExceptionDemo {
 			j=s.nextInt();
 			
 			
-			int k=i/j;
+			int m=i/j;
 			
-			System.out.println("Value is "+k);
+			System.out.println("Value is "+m);
 		}
 		catch(ArithmeticException e) 
 		{
